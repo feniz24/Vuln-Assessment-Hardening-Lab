@@ -29,5 +29,4 @@ The successful mitigation of these vulnerabilities is documented in the before-a
 - [📄 Final Vulnerability Scan (After Hardening)](reports/openvas_3rd_scan.pdf)
 
 ## 📝 Detailed Write-Up
-For a complete walkthrough of the exploit verification and hardening process, read my full technical blog post on [Medium]
-(https://medium.com/@feniztho/from-red-to-blue-a-practical-vulnerability-assessment-and-system-hardening-lab-8344a61de4c1)
+For a complete walkthrough of the exploit verification and hardening process, read my full technical blog post on [Medium](https://medium.com/@feniztho/from-red-to-blue-a-practical-vulnerability-assessment-and-system-hardening-lab-8344a61de4c1)
